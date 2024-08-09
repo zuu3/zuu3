@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**zuu3/zuu3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi There <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center" width="50">
+  
+<p><strong> School : 부산소프트웨어마이스터고등학교 <br> Birth : May 30, 2008 </strong>
+
+<h2> Connect with me on 👇</h2>
+<a href="https://instagram.com/xx._un8"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
+</div>
+
+<hr>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beorrol)](https://solved.ac/beorrol/)
