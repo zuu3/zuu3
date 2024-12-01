@@ -4,7 +4,7 @@
 
 <div align="center" width="50">
   
-<p><strong> 학교 : 부산소프트웨어마이스터고등학교 <br> 생일 : 2000년 05월 30일 </strong>
+<p><strong> 학교 : 부산소프트웨어마이스터고등학교 <br> 생일 : 2008년 05월 30일 </strong>
 
 <h2> 연락 👇 </h2>
 <a href="https://instagram.com/xx._un8" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
