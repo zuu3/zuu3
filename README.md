@@ -1,16 +1,41 @@
+<!-- 상단 배너 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hello!%20I'm%20Juhyun&fontSize=50&fontAlignY=38&fontColor=ffffff" />
+</p>
 
+<h2 align="center">Keep it simple, make it powerful.</h2>
 
-# Hi There <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+<p align="center">
+  문제를 깊게 이해하고, 가장 단순한 해답을 찾습니다.<br/>
+  그리고 그것을 누구나 사용할 수 있도록 만듭니다.
+</p>
 
-<div align="center" width="50">
-  
-<p><strong> 학교 : 부산소프트웨어마이스터고등학교 <br> 생일 : 2008년 05월 30일 </strong>
+---
 
-<h2> 연락 👇 </h2>
-<a href="https://instagram.com/xx._un8" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<h3 align="center">🛠 What I Use</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+</p>
 
-</div>
+---
 
-<hr>
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zuu3&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuu3&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beorrol)](https://solved.ac/beorrol/)
+---
+
+<h3 align="center">📬 Get in Touch</h3>
+<p align="center">
+  <a href="mailto:ojh27467242@gmail.com"><img src="https://img.shields.io/badge/Email-555?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://zuu3.notion.site/1733bddb8563808e96c3e981c206e556?pvs=74"><img src="https://img.shields.io/badge/Portfolio-555?style=for-the-badge&logo=notion&logoColor=white" /></a>
+</p>
+
+<!-- 하단 배너 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" />
+</p>
