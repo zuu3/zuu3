@@ -31,7 +31,7 @@
 
 <h3 align="center">📬 Get in Touch</h3>
 <p align="center">
-  <a href="mailto:ojh27467242@gmail.com"><img src="https://img.shields.io/badge/Email-555?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:me@zuu3.kr"><img src="https://img.shields.io/badge/Email-555?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://zuu3.notion.site/1733bddb8563808e96c3e981c206e556?pvs=74"><img src="https://img.shields.io/badge/Portfolio-555?style=for-the-badge&logo=notion&logoColor=white" /></a>
 </p>
 
