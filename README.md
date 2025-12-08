@@ -21,14 +21,6 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zuu3&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuu3&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
 <h3 align="center">📬 Get in Touch</h3>
 <p align="center">
   <a href="mailto:me@zuu3.kr"><img src="https://img.shields.io/badge/Email-555?style=for-the-badge&logo=gmail&logoColor=white" /></a>
