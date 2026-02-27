@@ -6,8 +6,8 @@
 <h2 align="center">Keep it simple, make it powerful.</h2>
 
 <p align="center">
-  문제를 깊게 이해하고, 가장 단순한 해답을 찾습니다.<br/>
-  그리고 그것을 누구나 사용할 수 있도록 만듭니다.
+  팀워크와 소통을 통해 빠르게 배우고,<br />
+  함께 더 나은 결과를 만들어내는 개발자입니다.
 </p>
 
 ---
